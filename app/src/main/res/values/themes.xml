@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.DirectSMS" parent="android:Theme.Material.Light.DarkActionBar">
+        <item name="android:statusBarColor">@color/purple_700</item>
+    </style>
+    <style name="Theme.MySplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="postSplashScreenTheme">@style/Theme.DirectSMS</item>
+    </style>
+</resources>
