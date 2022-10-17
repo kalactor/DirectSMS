@@ -4,12 +4,12 @@ A simple application for sending sms to whatsapp without saving number
 <h1>ScreenShots</h1>
 
 <img
-  src="screenshots/Screenshot_20221017_182403.png"
+  src="screenshots/Screenshot_20221017_195532.png"
   alt="Screenshots"
   title="Screenshots"
   style="display: inline-block; margin: 0 auto; width: 300px">
   <img
-  src="screenshots/Screenshot_20221017_182419.png"
+  src="screenshots/Screenshot_20221017_195559.png"
   alt="Screenshots"
   title="Screenshots"
   style="display: inline-block; margin: 0 auto; width: 300px">  
